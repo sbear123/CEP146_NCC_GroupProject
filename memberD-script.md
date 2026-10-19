@@ -1,18 +1,22 @@
-# Skills and Opportunities
+# — Skills and Opportunities for Junior Developers
 
 **Presentation Topic:** How AI Is Changing the Software Developer Job Market
 
-**Speaking Time:** 35 seconds
+**Speaking Time:** Approximately 35 seconds
 
 ## Presentation Script
 
-AI is changing opportunities for junior software developers. Since AI tools can now handle some basic coding tasks, beginners may face more competition when applying for jobs.
+If AI can already write code, how can new software developers still get hired?
 
-However, AI also creates opportunities. Companies need developers who can use AI effectively, solve problems, and check AI-generated code.
+That's a question many students are asking today.
 
-For students like us, this means strengthening our programming fundamentals, critical thinking, and practical experience.
+AI can handle some basic programming tasks, making entry-level jobs more competitive. However, coding isn't the only skill employers value.
 
-The key is not just learning to code, but learning how to work alongside AI.
+Companies still need developers who can solve problems, think critically, and use AI tools responsibly.
+
+For students like us, the goal isn't to compete with AI, but to learn how to work alongside it.
+
+**AI is changing the skills we need, not eliminating the need for developers.**
 
 ## Supporting Sources
 
