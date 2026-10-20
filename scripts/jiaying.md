@@ -10,7 +10,7 @@ For example, AI might generate a login feature, but a developer must still check
 
 In Stack Overflow's 2025 survey, about 46 percent of respondents distrusted the accuracy of AI outputs.
 
-Our conclusion is that producing code is only part of the job. Checking, debugging, and understanding that code remain essential parts of a developer's work.
+Our conclusion is that job applicants should demonstrate not only coding ability, but also the ability, but also the ability to review, debug, and test AI-generated code.
 
 ## Source
 https://survey.stackoverflow.co/2025/ai
