@@ -26,11 +26,11 @@ Our goal is to examine these changes using research and evidence while distingui
 
 ## Team Contributions
 
-- **Member A — Jihyun Park:** Introduction and Indeed Hiring Lab report.
-- **Member B - Atrina Ranjbaran** Software developer hiring trends.
-- **Member C — Jiaying Chen:** How AI changes developers' daily tasks.
-- **Member D - Firdosh Shaikh** Skills and opportunities for junior developers.
-- **Member E - Miray Ceylan** Conclusion and recommendations for students.
+- **Member A - Jihyun Park:** Introduction and Indeed Hiring Lab report.
+- **Member B - Atrina Ranjbaran:** Software developer hiring trends.
+- **Member C - Jiaying Chen:** How AI changes developers' daily tasks.
+- **Member D - Firdosh Shaikh:** Skills and opportunities for junior developers.
+- **Member E - Miray Ceylan:** Conclusion and recommendations for students.
 
 ## Key Considerations
 
