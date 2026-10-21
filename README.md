@@ -1,5 +1,10 @@
 # How AI Is Changing the Software Developer Job Market
-CEP146 NCC Project Presentation
+
+**CEP146 NCC Project Presentation**
+
+## Presentation Video
+
+[Watch our group presentation on YouTube](https://www.youtube.com/watch?v=-gzLnTEzR7k)
 
 ## Overview
 
