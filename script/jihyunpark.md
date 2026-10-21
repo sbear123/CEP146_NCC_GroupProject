@@ -4,9 +4,9 @@ Target speaking time: approximately 25 seconds.
 
 ## Script
 
-Have you ever wondered how AI is changing the way software developers in job market?
+Have you ever wondered how AI is changing the job market for software developers?
 
-AI is changing the skills companies need and how developers work. According to Indeed Hiring Lab's 2025 report, AI is changing how tasks are performed and increasing the importance of human judgment.
+AI is changing the skills companies need and how developers work. According to Indeed Hiring Lab’s AI at Work Report 2025, published on September 23, 2025, AI is changing how tasks are performed and increasing the importance of human judgment in the U.S. labor market.
 
 Today, we will explore hiring trends, changing developer tasks, and opportunities for future developers.
 
