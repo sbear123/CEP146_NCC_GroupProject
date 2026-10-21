@@ -6,11 +6,9 @@ Introduce the main question of our project and explain why AI's impact on the so
 
 ## Research Evidence
 
-Indeed Hiring Lab's 2025 AI at Work Report examines how generative AI is changing the way work is performed and how it affects job tasks and responsibilities.
+Indeed Hiring Lab's *AI at Work Report 2025*, published on September 23, 2025, examines how generative AI is changing work tasks and responsibilities in the U.S. labor market.
 
-Source: [https://hiringlab.indeed.com/2025/09/23/ai-at-work-report-2025-how-genai-is-rewiring-the-dna-of-jobs/]
-
-Report: AI at Work Report (2025)
+**Source:** [Indeed Hiring Lab — AI at Work Report 2025](https://hiringlab.indeed.com/2025/09/23/ai-at-work-report-2025-how-genai-is-rewiring-the-dna-of-jobs/)
 
 ## Our Analysis
 
@@ -28,7 +26,7 @@ This is a hypothetical example, not an actual job posting.
 
 ## Evidence Limitations
 
-- The report discusses the impact of generative AI on work and job tasks.
+- The report discusses the impact of generative AI on work tasks and responsibilities in the U.S. labor market.
 - Changes in work tasks do not necessarily indicate an increase or decrease in software developer hiring.
 - The report should not be treated as direct proof that AI is eliminating junior developer jobs.
 - Specific claims about software hiring trends and demand for AI skills require additional evidence from relevant hiring data.
