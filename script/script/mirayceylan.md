@@ -1,0 +1,3 @@
+# Member E 
+
+To wrap up, our project shows that AI is changing how software developers work and what skills employers look for. AI can help with coding tasks, but developers still need to understand and check the code. Our hiring trends section shows mixed results: HackerRank found that hiring activity increased more for senior and lead developers than for junior and entry-level developers. LinkedIn also reports that core programming remains important, while Python, cloud, and AI-related skills are becoming more important. However, these reports do not prove that AI caused weaker entry-level hiring. As students, we can prepare by learning programming basics, practising problem-solving, using AI responsibly, and continuing to learn new skills.
