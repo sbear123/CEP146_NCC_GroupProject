@@ -16,6 +16,7 @@ AI is changing the skills companies need and how developers work. According to I
 
 Today, we will explore hiring trends, changing developer tasks, and opportunities for future developers.
 
+
 ## Source
 
 Indeed Hiring Lab — AI at Work Report (2025)
